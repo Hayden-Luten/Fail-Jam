@@ -1,6 +1,7 @@
+CollisionShape2D
+Area2D
 TileMap
 Camera2D
 Button
-CollisionShape2D
 Sprite2D
 CharacterBody2D

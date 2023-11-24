@@ -1,7 +1,4 @@
-res://Scenes/LevelScenes/Main.tscn
-res://Scenes/ObjectScenes/charMovement.gd
-res://Scenes/ObjectScenes/Character.tscn
-res://Scenes/LevelScenes/Endless.tscn
-res://Scenes/LevelScenes/quit.gd
 res://Scenes/LevelScenes/play.tscn
-res://Scripts/playButton.gd
+res://Scenes/LevelScenes/Main.tscn
+res://Scenes/ObjectScenes/Character.tscn
+res://player/charMovement.gd
