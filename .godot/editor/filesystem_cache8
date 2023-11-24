@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700723234
+gv.gd::GDScript::-1::1699377545::0::1::::<>Node<>::
+::res://assets/::1700723112
+icon.svg::CompressedTexture2D::3136411148472081558::1699374771::1700723112::1::::<><>::
+::res://player/::1700723234
+::res://Scenes/::1699377138
+::res://Scenes/LevelScenes/::1700723215
+Main.tscn::PackedScene::1173464872131109860::1700723195::0::1::::<><>::res://Scripts/quit.gd<>res://Scripts/playButton.gd<>uid://bkxkh611ae5uw::::res://assets/icon.svg
+play.tscn::PackedScene::4094866877974016087::1700723240::0::1::::<><>::uid://dplxkgstdqpn7::::res://Scenes/ObjectScenes/Character.tscn<>res://Scripts/charMovement.gd
+::res://Scenes/ObjectScenes/::1700723215
+Character.tscn::PackedScene::8236217553531633190::1700723151::0::1::::<><>::uid://bkxkh611ae5uw::::res://assets/icon.svg
+::res://Scripts/::1700723215
+charMovement.gd::GDScript::-1::1700722085::0::1::::<>CharacterBody2D<>::
+playButton.gd::GDScript::-1::1699377378::0::1::::<>Button<>::
+quit.gd::GDScript::-1::1700722451::0::1::::<>Button<>::
