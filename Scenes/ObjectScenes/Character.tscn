@@ -33,7 +33,9 @@ size = Vector2(128, 128)
 script = SubResource("GDScript_2ykd0")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
 texture = ExtResource("1_lrm47")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(0.25, 0.25)
 shape = SubResource("RectangleShape2D_f7mbf")

@@ -1,4 +1,4 @@
-res://Scenes/LevelScenes/play.tscn
 res://Scenes/LevelScenes/Main.tscn
 res://Scenes/ObjectScenes/Character.tscn
+res://Scenes/LevelScenes/play.tscn
 res://player/charMovement.gd
