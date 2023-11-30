@@ -1,14 +1,7 @@
+res://Scenes/ObjectScenes/button.tscn
+res://Scripts/button.gd
 res://Scenes/LevelScenes/level1.tscn
-res://Scenes/ObjectScenes/Character.tscn
+res://player/Character.tscn
 res://Scenes/ObjectScenes/ball.tscn
 res://Scenes/LevelScenes/levelSelect.tscn
 res://Scenes/LevelScenes/Main.tscn
-res://Scenes/ObjectScenes/ball.gd
-res://player/charMovement.gd
-res://gv.gd
-res://Scenes/LevelScenes/level1.gd
-res://Scripts/level1.gd
-res://Scenes/ObjectScenes/button.tscn
-res://Scripts/ball.gd
-res://Scripts/button.gd
-res://player/Character.tscn

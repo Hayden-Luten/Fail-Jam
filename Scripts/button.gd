@@ -4,11 +4,11 @@ var currentBody
 
 func _on_collider_body_entered(body):
 	currentBody = body
-	$up.hide()
+	$button.frame = 1
 	gv.buttonPress = true
 
 func _on_collider_body_exited(body):
 	if currentBody == body:
-		$up.show()
+		$button.frame = 0
 		gv.buttonPress = false
 		currentBody = ""
