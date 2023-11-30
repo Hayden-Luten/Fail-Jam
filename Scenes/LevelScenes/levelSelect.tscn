@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://bkc3mpytgjyan"]
+
+[ext_resource type="Script" path="res://Scripts/levelSelect.gd" id="1_tc0w6"]
+
+[node name="levelSelect" type="Node2D"]
+script = ExtResource("1_tc0w6")
+
+[node name="back" type="Button" parent="."]
+offset_right = 63.0
+offset_bottom = 63.0
+text = "back"
+
+[node name="level1" type="Button" parent="."]
+offset_left = 143.0
+offset_top = 98.0
+offset_right = 212.0
+offset_bottom = 167.0
+text = "1"
+
+[node name="level2" type="Button" parent="."]
+offset_left = 263.0
+offset_top = 98.0
+offset_right = 332.0
+offset_bottom = 167.0
+text = "2"
+
+[connection signal="pressed" from="back" to="." method="_on_back_pressed"]
+[connection signal="pressed" from="level1" to="." method="_on_level_1_pressed"]

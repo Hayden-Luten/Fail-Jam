@@ -28,6 +28,8 @@ func _physics_process(delta):
 	move_and_slide()
 
 
-func _on_area_2d_body_entered(body):
-	global_position.x = 0
-	global_position.y = 0
+
+	
+func release():
+	$ball.reparent(get_parent())
+	pass
