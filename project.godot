@@ -19,7 +19,7 @@ config/icon="res://assets/icon.svg"
 
 [autoload]
 
-gv="*res://gv.gd"
+gv="*res://Scripts/gv.gd"
 
 [display]
 
