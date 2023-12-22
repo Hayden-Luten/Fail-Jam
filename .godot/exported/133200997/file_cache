@@ -1,0 +1,12 @@
+res://assets/UI.tres::b0626b29ed678a3978939d57c91a7b34::1702916925::res://.godot/exported/133200997/export-549cc390cdf66fff2235a7acb15f4a9f-UI.res
+res://player/Character.tscn::23e7bca4135db3874b582d2e09888e64::1703097584::res://.godot/exported/133200997/export-0057baeef002c556d08b4884f387ccc3-Character.scn
+res://Scenes/LevelScenes/level1.tscn::10618437c6093fbebeaf3efd6293fa78::1703097570::res://.godot/exported/133200997/export-a3eb28981e6532553e028a7b44d1fea1-level1.scn
+res://Scenes/LevelScenes/level2.tscn::ec842266baec5b9c5b5072713a493e94::1703097585::res://.godot/exported/133200997/export-1eae4cd777b3f5dc430ec6b9cc6ae454-level2.scn
+res://Scenes/LevelScenes/levelSelect.tscn::25347ba002b7d2752c3835773c6386c3::1703097584::res://.godot/exported/133200997/export-c5a45febde2573ede8f0bda77914297b-levelSelect.scn
+res://Scenes/LevelScenes/Main.tscn::010cddec11d14017db194e5cd7ff2f82::1703097584::res://.godot/exported/133200997/export-f0b22a912a04707cc5342a7367ed4450-Main.scn
+res://Scenes/LevelScenes/saveSelect.tscn::c65327541b924546a19475a11419f884::1703097584::res://.godot/exported/133200997/export-a82170550b619d84d816ca65a8f26d14-saveSelect.scn
+res://Scenes/ObjectScenes/background.tscn::63cae6577a8011482dc8e2ab1b569a2d::1703097585::res://.godot/exported/133200997/export-6ce166bcaad56f32c5442a9f45e35f9e-background.scn
+res://Scenes/ObjectScenes/ball.tscn::379b79e6ca6f4723817372a676377787::1703097585::res://.godot/exported/133200997/export-a2613e29599ef207aa561f8523481f18-ball.scn
+res://Scenes/ObjectScenes/button.tscn::80a47363c01d03755476936be3e28a1c::1703097585::res://.godot/exported/133200997/export-6afbe1ab78a4e531871efb11eb41db4d-button.scn
+res://Scenes/ObjectScenes/tempCollide.tscn::b666f9a2ca8ae68661a7ecb45f37d685::1702916934::res://.godot/exported/133200997/export-bcdda28a19969be5af1a3d6b6de897c7-tempCollide.scn
+res://Scenes/ObjectScenes/timer.tscn::31a724f8d0fe800aaaa2ac2774a3aea6::1703097585::res://.godot/exported/133200997/export-284c9125f0b19df26ee6be9d4a618b50-timer.scn

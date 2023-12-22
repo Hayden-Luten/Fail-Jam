@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://g384b8lycbrw"]
 
 [ext_resource type="Script" path="res://Scripts/button.gd" id="1_r87xy"]
-[ext_resource type="Texture2D" uid="uid://dw5jq5njl6i7q" path="res://assets/buttonSheet.png" id="2_3yark"]
+[ext_resource type="Texture2D" uid="uid://dyeof2dq4t8ti" path="res://assets/kenney_pixel-platformer/Tilemap/tilemap_packed.png" id="2_oko81"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_rl2ab"]
 size = Vector2(20, 12)
@@ -19,5 +19,7 @@ shape = SubResource("RectangleShape2D_rl2ab")
 [node name="buttonSprite" type="Sprite2D" parent="."]
 position = Vector2(0, -4)
 scale = Vector2(1.45313, 1.45313)
-texture = ExtResource("2_3yark")
-hframes = 2
+texture = ExtResource("2_oko81")
+hframes = 20
+vframes = 9
+frame = 108

@@ -1,6 +1,9 @@
-[gd_scene load_steps=2 format=3 uid="uid://c6hvid2oujr6r"]
+[gd_scene load_steps=3 format=3 uid="uid://c6hvid2oujr6r"]
 
 [ext_resource type="Script" path="res://Scripts/timer.gd" id="1_2cwgl"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_bnw45"]
+font_color = Color(0, 0, 0, 1)
 
 [node name="timer" type="Node2D"]
 script = ExtResource("1_2cwgl")
@@ -9,3 +12,4 @@ script = ExtResource("1_2cwgl")
 offset_right = 40.0
 offset_bottom = 23.0
 text = "0:00"
+label_settings = SubResource("LabelSettings_bnw45")

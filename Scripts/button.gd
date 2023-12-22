@@ -4,8 +4,8 @@ extends Area2D
 
 func _process(_delta):
 	if has_overlapping_bodies():
-		button.frame = 1
+		button.frame = 107
 		gv.buttonPress = true
 	else:
-		button.frame = 0
+		button.frame = 108
 		gv.buttonPress = false

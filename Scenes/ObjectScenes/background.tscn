@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=3 uid="uid://cagg03n0mxnbl"]
+
+[ext_resource type="Script" path="res://Scripts/background.gd" id="1_jeqn7"]
+[ext_resource type="Texture2D" uid="uid://s37urt512wbt" path="res://assets/kenney_pixel-platformer/Tilemap/tilemap-backgrounds_packed.png" id="2_2nqub"]
+
+[node name="bg" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+script = ExtResource("1_jeqn7")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+position = Vector2(-300, -100)
+motion_scale = Vector2(0.6, 0.6)
+motion_mirroring = Vector2(480, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2(100.8, 142.2)
+scale = Vector2(5, 5)
+texture = ExtResource("2_2nqub")
+hframes = 4
+
+[node name="Sprite2D2" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2(340.8, 142.2)
+scale = Vector2(5, 5)
+texture = ExtResource("2_2nqub")
+hframes = 4
+frame = 1
